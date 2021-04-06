@@ -1,3 +1,7 @@
+Originally forked from https://github.com/orliesaurus/greetingslack.
+
+Added some updates to make it compatible with Python 3.8 when deploying to Heroku.
+
 # Greetings Slackers
 This simple script written in basic Python will allow you to hook into the real time API of Slack and perform a direct message greeting to every new joiner!
 Usually this is used to tell new joiners about the network, the guidelines, rules, useful links etc etc
